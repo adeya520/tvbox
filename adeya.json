@@ -2,13 +2,14 @@
     "spider": "https://file.icve.com.cn/file_doc/795/103/C6E19D5100C98F677B21320044A1D030.jpg;md5;c6e19d5100c98f677b21320044a1d030",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
-        {
-      "name": "Mursor专属",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6783823921&sign=ebdb9d5f7c439082d8f2d255b1f1d999a04f0b61df41b47ebd7dbad1e79829ed6137529f9e5938586b0b26223302ef6d838d1c070eb5796e165834e74d39c2f275b98b8db2a129&auth_token=5f218c7ce70ff299c58b199a70d50af9",
-      "ua": "okHttp/Mod-1.5.0.0"
-       },
+         {
+            "name": "Mursor专属",
+            "type": 0,
+            "url": "https://live.ottiptv.cc/iptv.m3u?userid=6783823921&sign=ebdb9d5f7c439082d8f2d255b1f1d999a04f0b61df41b47ebd7dbad1e79829ed6137529f9e5938586b0b26223302ef6d838d1c070eb5796e165834e74d39c2f275b98b8db2a129&auth_token=5f218c7ce70ff299c58b199a70d50af9",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
         {
             "name": "Mursor专属2",
             "type": 0,
